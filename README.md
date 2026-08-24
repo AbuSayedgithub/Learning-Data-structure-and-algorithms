@@ -1,2 +1,3 @@
 # Learning-Data-structure-and-algorithms
-I want to learn the syntax and basic thing about it. 
+Algorithm Practice Repository
+Welcome! This repository is a personal learning space where I, a student passionate about programming, explore and implement basic algorithms in Python.
